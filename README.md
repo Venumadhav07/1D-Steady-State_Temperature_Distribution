@@ -69,6 +69,3 @@ xlabel('Node Index');
 ylabel('Temperature (°C)');
 title('1D STEADY STATE TEMPERATURE DISTRIBUTION');
 grid on;
-title('1D Steady-State Temperature Distribution');
-grid on;
-legend('Temperature Profile', 'Location', 'eastoutside');
